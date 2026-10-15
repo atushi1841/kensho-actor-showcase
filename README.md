@@ -3,7 +3,7 @@
 **55+ Free Japanese Market Data Scrapers** — ready-to-use Apify Actors for EC, auction, and marketplace data.
 
 [![GitHub stars](https://img.shields.io/github/stars/atushi1841/kensho-actor-showcase)](https://github.com/atushi1841/kensho-actor-showcase)
-[![Smithery](https://smithery.ai/badge/@atushi1841/kensho-actor-showcase)](https://smithery.ai/@atushi1841/kensho-actor-showcase)
+[![Smithery](https://smithery.io/badge/@atushi1841/kensho-actor-showcase)](https://smithery.io/@atushi1841/kensho-actor-showcase)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![X (Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fatushi1841)](https://x.com/atushi1841)
 
@@ -37,7 +37,7 @@ python3 run_actor.py --name mercari-japan-search-scraper --max-items 100
 | カテゴリ | 比較検索 |
 | 用途 | 複数ショップの価格を一度に比較 |
 
-**Apify**: [japan-market-mcp](https://apify.com/atushi1841/japan-market-mcp)
+**Apify**: [japan-market-mcp](https://apify.com/fruitful_quintessence/japan-market-mcp)
 **Smithery**: `npx -y smithery cli install @atushi1841/japan-market-mcp`
 
 ---
@@ -49,7 +49,7 @@ python3 run_actor.py --name mercari-japan-search-scraper --max-items 100
 | カテゴリ | 中古品 |
 | 用途 | ハードオフ・オフモールの出品価格取得 |
 
-**Apify**: [japan-offmall-market-scraper](https://apify.com/atushi1841/japan-offmall-market-scraper)
+**Apify**: [japan-offmall-market-scraper](https://apify.com/fruitful_quintessence/japan-offmall-market-scraper)
 **Smithery**: `npx -y smithery cli install @atushi1841/japan-offmall-market-scraper`
 
 ---
@@ -61,7 +61,7 @@ python3 run_actor.py --name mercari-japan-search-scraper --max-items 100
 | カテゴリ | ホビー/アニメ |
 | 用途 | まんだらけオークションの落札価格・出品履歴 |
 
-**Apify**: [mandarake-auction-scraper](https://apify.com/atushi1841/mandarake-auction-scraper)
+**Apify**: [mandarake-auction-scraper](https://apify.com/fruitful_quintessence/mandarake-auction-scraper)
 **Smithery**: `npx -y smithery cli install @atushi1841/mandarake-auction-scraper`
 
 ---
@@ -73,7 +73,7 @@ python3 run_actor.py --name mercari-japan-search-scraper --max-items 100
 | カテゴリ | 釣具 |
 | 用途 | 釣具店の価格・在庫情報取得 |
 
-**Apify**: [tackleberry-japan-fishing-tackle-scraper](https://apify.com/atushi1841/tackleberry-japan-fishing-tackle-scraper)
+**Apify**: [tackleberry-japan-fishing-tackle-scraper](https://apify.com/fruitful_quintessence/tackleberry-japan-fishing-tackle-scraper)
 **Smithery**: `npx -y smithery cli install @atushi1841/tackleberry-japan-fishing-tackle-scraper`
 
 ---
@@ -85,7 +85,7 @@ python3 run_actor.py --name mercari-japan-search-scraper --max-items 100
 | カテゴリ | カメラ |
 | 用途 | キタムラ・カメラ市場の中古価格調査 |
 
-**Apify**: [japan-used-camera-market-scraper](https://apify.com/atushi1841/japan-used-camera-market-scraper)
+**Apify**: [japan-used-camera-market-scraper](https://apify.com/fruitful_quintessence/japan-used-camera-market-scraper)
 **Smithery**: `npx -y smithery cli install @atushi1841/japan-used-camera-market-scraper`
 
 ---
@@ -144,8 +144,8 @@ python3 run_actor.py --name rakuten-japan-mcp --query "フィギュア" --max-it
 
 ## 🔗 Links
 
-- **Apify Store**: [atushi1841](https://apify.com/atushi1841)
-- **Smithery**: [install guide](https://smithery.ai/@atushi1841/kensho-actor-showcase)
+- **Apify Store**: [atushi1841](https://apify.com/fruitful_quintessence)
+- **Smithery**: [install guide](https://smithery.io/@atushi1841/kensho-actor-showcase)
 - **GitHub**: [github.com/atushi1841/kensho-actor-showcase](https://github.com/atushi1841/kensho-actor-showcase)
 - **X (Twitter)**: [@atushi1841](https://x.com/atushi1841)
 
